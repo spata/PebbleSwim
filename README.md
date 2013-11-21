@@ -1,4 +1,4 @@
-# Ocean Surveying
+# PebbleSwim: A lap counting app for the Pebble smartwatch.
 
 An example Android application that exercises the data spooling APIs of `PebbleKit`.
 
